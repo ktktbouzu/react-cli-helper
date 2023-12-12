@@ -1,0 +1,5 @@
+import React from 'react';
+
+describe("{{ describe }}", () => {
+  // Put your test cases here.
+});

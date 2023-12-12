@@ -1,0 +1,30 @@
+{
+  "name": "react-cli-helper",
+  "version": "1.0.1",
+  "description": "Simple react application helper tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noodle-code/react-cli-helper.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "CLI",
+    "Helper"
+  ],
+  "author": "noodle-code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noodle-code/react-cli-helper/issues"
+  },
+  "homepage": "https://github.com/noodle-code/react-cli-helper#readme",
+  "bin": {
+    "react-cli-help": "./index.js"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
